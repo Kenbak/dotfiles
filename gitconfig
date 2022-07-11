@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = k6nb4k@gmail.com
+	name = Antoine Serval
